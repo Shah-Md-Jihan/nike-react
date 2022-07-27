@@ -1,0 +1,47 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.logo_img {
+    width: 18rem;
+}
+
+.menu_text {
+    color: #3C3C3C;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.menu_text:hover {
+    color: #FA804C;
+}
+
+.banner_img {
+    width: 25rem;
+}
+
+.b_margin {
+    margin-left: 7rem;
+}
+
+.text_orange {
+    color: #FA804C;
+}
+
+.banner_title {
+    font-size: 4.5rem;
+    line-height: 75px;
+    font-weight: 700;
+}
+
+.banner_txt_color {
+    color: #3E3E3E;
+}
+
+.banner_text {
+    font-size: 16px;
+    font-weight: 400;
+}
